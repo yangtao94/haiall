@@ -1,8 +1,8 @@
 #NBA draft simulator
 
-A basic simulation of the NBA draft with rules accurate as of the 2017 NBA draft.
+A basic simulation of the NBA draft with rules accurate as of the 2019 NBA draft. Revised draft rules are explained here: https://www.nba.com/nba-draft-lottery-explainer
 
-Choose between the original odds of the 2017 NBA draft, or craft up your own teams! Choose up to 14 teams.
+Choose between the original odds of the 2019 NBA draft, or craft up your own teams! Choose up to 14 teams.
 
 
 main file under /src
