@@ -4,7 +4,7 @@
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
+
 
 ## About <a name = "about"></a>
 The NBA Draft Lottery is a yearly event where the bottom 14 teams of the National Basketball Association come together in hopes of getting the first draft pick. The 2019 event saw revised rules where the bottom 3 teams shared an equal 14% chance at winning the first pick. In the end none of the three teams got the first draft pick. Haha so stop tanking!
