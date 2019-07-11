@@ -1,15 +1,3 @@
-#NBA draft simulator
-
-
-
-
-main file under /src
-run .jar in the /dist directory
-
-
-
-
-
 # NBA Draft Lottery Simulator
 
 ## Table of Contents
